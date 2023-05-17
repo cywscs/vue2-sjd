@@ -1,0 +1,21 @@
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#nprogress .bar {
+  background: #a9d1ff !important;
+  height: 5px !important;
+}
+
+.el-breadcrumb {
+  margin-bottom: 15px;
+  font-size: 12px;
+}
+
+.el-card {
+  /*height: 85vh;*/
+}
